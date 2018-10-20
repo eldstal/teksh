@@ -1,8 +1,8 @@
 ### teksh, a command shell implemented in LaTeX
 
-# Install texlive
-# chmod +x teksh.tex
-# invoke teksh.tex
+1. Install texlive
+2. chmod +x teksh.tex
+3. invoke teksh.tex
 
 ~~~~
 $ ./teksh
